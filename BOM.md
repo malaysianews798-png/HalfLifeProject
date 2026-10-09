@@ -21,7 +21,7 @@
 | [10k Resistor](https://shopee.com.my/-Ready-Stock-Resistor-1-1-4W-10k-to-1M-Ohm-10k-20k-33k-47k-51k-68k-75k-82k-91k-100k-200k-220k-330k-470k-510k-680k-1M-i.335729754.3985373427?extraParams=%7B%22display_model_id%22%3A65888461190%2C%22model_selection_logic%22%3A3%7D) | for the pcb | 3 | $0.02 | $0.06 | [Selectronic Enterprise](https://shopee.com.my/-Ready-Stock-Resistor-1-1-4W-10k-to-1M-Ohm-10k-20k-33k-47k-51k-68k-75k-82k-91k-100k-200k-220k-330k-470k-510k-680k-1M-i.335729754.3985373427?extraParams=%7B%22display_model_id%22%3A65888461190%2C%22model_selection_logic%22%3A3%7D) |
 | [PCB](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) | print PCB | 1 | $10.00 | $10.00 | [JLCPCB](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) |
 | **Parts subtotal** | — | — | — | **$25.61** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$25.61** | — |
+| **Tax & shipping** | — | — | — | **$6.48** | — |
+| **Total** | — | — | — | **$32.09** | — |
 
-$4.39 left of the tier's funding.
+**$2.09 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
