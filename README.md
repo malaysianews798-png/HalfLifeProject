@@ -19,3 +19,6 @@ A wiring diagram, if anything is wired by hand.
 
 
 The bill of materials, as a table with links to where each part is bought.
+
+[BOM.csv](https://github.com/user-attachments/files/33233093/BOM.csv)
+
